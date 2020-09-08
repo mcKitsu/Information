@@ -4,7 +4,7 @@
 Select scopes請勾選repo、write:packages、read:packages
 
 ### 2.新增maven設定檔
-預設maven資料夾路徑為C:\Users\<Your windows user name>\.m2
+預設maven資料夾路徑為C:\Users\"Your windows user name"\.m2
 在maven目錄下新增檔案settings.xml並複製以下文字
 將"YOUR_NAME"改成Github name
 將"YOUR_TOKEN"改為步驟1所建立的Token
