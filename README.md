@@ -1,2 +1,2 @@
 # Information
-About the kitsu information
+## 1.[如何使用mcKitsu倉庫](./Maven-repo.md)
