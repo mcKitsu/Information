@@ -1,4 +1,4 @@
-# 如何使用mcKitsu 私有Maven倉庫
+# 如何使用mcKitsu私有Maven倉庫
 ### 1.建立Github Token
 進入[Github Token](https://github.com/settings/tokens/new)建立專用Token
 Select scopes請勾選repo、write:packages、read:packages
