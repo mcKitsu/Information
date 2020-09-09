@@ -28,18 +28,12 @@ Select scopes請勾選**repo**、**write:packages**、**read:packages**
 
   <profiles>
     <profile>
-      <id>github</id>
+      <id>kitsu-repo</id>
       <repositories>
         <repository>
-          <id>central</id>
-          <url>https://repo1.maven.org/maven2</url>
-          <releases><enabled>true</enabled></releases>
-          <snapshots><enabled>true</enabled></snapshots>
-        </repository>
-        <repository>
-          <id>github</id>
+          <id>kitsu-repo</id>
           <name>GitHub mcKitsu Apache Maven Packages</name>
-          <url>https://maven.pkg.github.com/mcKitsu</url>
+          <url>https://maven.pkg.github.com/mckitsu/KitsuLib/</url>
         </repository>
       </repositories>
     </profile>
@@ -47,7 +41,7 @@ Select scopes請勾選**repo**、**write:packages**、**read:packages**
 
   <servers>
     <server>
-      <id>github</id>
+      <id>kitsu-repo</id>
       <username>YOUR_NAME</username>
       <password>YOUR_TOKEN</password>
     </server>
@@ -62,8 +56,9 @@ Select scopes請勾選**repo**、**write:packages**、**read:packages**
 ```
 <repositories>
     <repository>
-        <id>github</id>
-        <url>https://maven.pkg.github.com/mcKitsu</url>
+        <id>kitsu-repo</id>
+        <name>GitHub mcKitsu Apache Maven Packages</name>
+        <url>https://maven.pkg.github.com/mckitsu/KitsuLib/</url>
     </repository>
 </repositories>
 ```
