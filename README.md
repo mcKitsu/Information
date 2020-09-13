@@ -1,4 +1,4 @@
-# mcKitsu - Information infex
+# mcKitsu - Information index
 ## 1.[Server](./Server/README.md)
 * [伺服器更新日誌](./Server/log.md)
 * [伺服器公告](./Server/announcement.md)
