@@ -1,2 +1,2 @@
-# Command list
+# 指令列表
 /rpt 隨機傳送
