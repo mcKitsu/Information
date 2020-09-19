@@ -22,3 +22,6 @@
 /AbandonClaim  刪除腳下領地
 
 /AbandonAllClaims 刪除所有領地 [注意!慎用]
+***
+### <交易頻道>
+$ message 交易時使用的頻道
