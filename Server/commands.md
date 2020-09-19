@@ -1,11 +1,11 @@
 # 指令列表
 ***
 ### <傳送類>
-/rpt 隨機傳送
+/rtp 隨機傳送
 
 /tpa [Player] 傳送玩家
 
-/tpaaccept 接受傳送
+/tpaccept 接受傳送
 
 /tpadeny 拒絕傳送
 
