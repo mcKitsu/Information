@@ -10,4 +10,7 @@
 * [收支狀況](./server-info/cost.md)
 
 ## 3.[關於團隊](./team/README.md)
-* [關於我妹](./team/about.md)
+* [關於我們](./team/about.md)
+* [Github](https://github.com/mcKitsu)
+* [開發文檔](http://docs.mckitsu.net)
+
