@@ -2,6 +2,7 @@
 ## 1.[遊戲內容](./game/README.md)
 * [規則](./game/rules.md)
 * [指令](./game/commands.md)
+* [玩家排名](http://mckitsu.net/player_data.html)
 
 ## 2.[伺服器資訊](./server-info/README.md)
 * [更新資訊](./server-info/log.md)
