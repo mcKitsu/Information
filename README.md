@@ -6,6 +6,8 @@
 ## 2.[伺服器資訊](./server-info/README.md)
 * [更新資訊](./server-info/log.md)
 * [公告](./server-info/announcement.md)
+* [硬體設備](./server-info/hardware.md)
+* [收支狀況](./server-info/cost.md)
 
 ## 3.[關於團隊](./team/README.md)
 * [關於我妹](./team/about.md)
