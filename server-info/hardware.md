@@ -20,6 +20,9 @@ POWER : Delta Electronics DPS-550LB Hot pump *2
 
 ### 伺服器本體
   - 伺服器整體
+  
 ![server-cabinet](http://mckitsu.net/resource/server-cabinet.jpg)
+
   - 伺服器內部(ThinkServer-RD540)
+  
 ![server-internal](http://mckitsu.net/resource/server-internal.jpg)
