@@ -14,7 +14,7 @@
 * [公告](./server-info/announcement.md)
 * [硬體設備](./server-info/hardware.md)
 * [伺服器收支](./server-info/cost.md)
-* [巴哈姆特招生文](https://forum.gamer.com.tw/C.php?bsn=18673&snA=186819)
+* [巴哈姆特招生文](https://forum.gamer.com.tw/C.php?bsn=18673&snA=187448)
 
 ## 4.關於團隊
 * [關於我們](./team/about.md)
