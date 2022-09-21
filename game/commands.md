@@ -62,5 +62,5 @@ $ message 交易時使用的頻道
 
 /is kick [玩家ID] 將玩家踢出你的島嶼
 
-/is lang [語言] 切換顯示語言
+/is lang 切換顯示語言
 ***
