@@ -52,17 +52,17 @@ $ message 交易時使用的頻道
 ### <功能類>
 /island create [島嶼名稱] 創建個人島嶼
 
-/is invite [玩家ID] 邀請朋友到你的島嶼
+/island invite [玩家ID] 邀請朋友到你的島嶼
 
-/is accept 玩家ID or 島嶼名稱
+/island accept 玩家ID or 島嶼名稱
 
-/is panel 打開島嶼菜單
+/island panel 打開島嶼菜單
 
-/is counts 查詢你的島嶼用了哪些方塊
+/island counts 查詢你的島嶼用了哪些方塊
 
-/is kick [玩家ID] 將玩家踢出你的島嶼
+/island kick [玩家ID] 將玩家踢出你的島嶼
 
-/is lang 切換顯示語言
+/island lang 切換顯示語言
 ***
 ### <傳送類>
 /island teleport [玩家ID] 傳送到[]的島嶼
