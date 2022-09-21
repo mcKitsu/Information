@@ -47,3 +47,4 @@ $ message 交易時使用的頻道
 /g message 訊息發送到世界頻道
 
 /m [Player] 私訊
+# 空島常用指令
