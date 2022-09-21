@@ -47,4 +47,20 @@ $ message 交易時使用的頻道
 /g message 訊息發送到世界頻道
 
 /m [Player] 私訊
-# 空島常用指令
+# 空島指令大全
+***
+### <功能類>
+/island create [島嶼名稱] 創建個人島嶼
+
+/is invite [玩家ID] 邀請朋友到你的島嶼
+
+/is accept 玩家ID or 島嶼名稱
+
+/is panel 打開島嶼菜單
+
+/is counts 查詢你的島嶼用了哪些方塊
+
+/is kick [玩家ID] 將玩家踢出你的島嶼
+
+/is lang [語言] 切換顯示語言
+***
