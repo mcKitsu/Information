@@ -64,3 +64,8 @@ $ message 交易時使用的頻道
 
 /is lang 切換顯示語言
 ***
+### <傳送類>
+/island teleport [玩家ID] 傳送到[]的島嶼
+
+/spawn 回到開放世界
+***
